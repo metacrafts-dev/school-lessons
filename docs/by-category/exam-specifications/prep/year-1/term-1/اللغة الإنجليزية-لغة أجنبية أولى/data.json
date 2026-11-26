@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/English_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/English_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/English_1_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/English_prep_all_blind.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/English_prep_all_deaf.pdf"
+  }
+]

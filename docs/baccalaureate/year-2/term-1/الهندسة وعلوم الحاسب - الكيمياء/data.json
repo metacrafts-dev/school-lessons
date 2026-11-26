@@ -1,0 +1,56 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Chemistry-Ar-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Chemistry-En-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Chemistry-Fr-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Chemistry-Ar-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Chemistry-En-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Chemistry-Fr-EB-Assessments-1.pdf"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Mathematics-Ar-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Mathematics-En-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Mathematics-Ar-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Mathematics-En-EB-Assessments-1.pdf"
+  }
+]

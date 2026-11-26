@@ -1,0 +1,38 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - البرمجة والذكاء الأصطناعي",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Programming-ArtificialIntelligence-Ar-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - البرمجة والذكاء الأصطناعي",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Programming-ArtificialIntelligence-En-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - البرمجة والذكاء الأصطناعي",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Programming-ArtificialIntelligence-Ar-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الهندسة وعلوم الحاسب - البرمجة والذكاء الأصطناعي",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Programming-ArtificialIntelligence-En-EB-Assessments-1.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الصناعة وريادة الأعمال",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Industry_skills_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الصناعة وريادة الأعمال",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Industry_skills_prep_blind_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الصناعة وريادة الأعمال",
+    "type": "مواصفات الورقة الامتحانية (إعدادي مهني)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Vocational_education/Industry_prep_all_Vocational.pdf"
+  }
+]

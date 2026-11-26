@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Spanish_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Spanish_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Spanish_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Spanish_sec_1_2_blind.pdf"
+  }
+]

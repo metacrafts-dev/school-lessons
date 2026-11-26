@@ -1,0 +1,442 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Arabic_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/English_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/English_sec_lang_prep1_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Math_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Math_EN_Prp1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Islamic_Education_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Christian_Education_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_EN_Prp1_TR1..pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الفرنسية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Science_FR_Prp1_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Social_Studies_Prep1_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/ICT_ARABIC_Prp1_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية المسرحية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Thetar_prep1_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "المكتبات ومهارات البحث",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Librarie_research_skills_prep1_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الإعلام التربوي",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Educational_media_Pep1_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الصناعة وريادة الأعمال",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Industry_Skills_prep1_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - كتاب الطالب",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/TEXTBOOK.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - كراسة التدريبات",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJSWorkbook.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - صوتيات",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJS_G7_audio.rar"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - بطاقة هيراجانا/كاتاكانا",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/Hiragana_Katakana_Card.xlsx"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - فيديو",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/G7_Can_d0_Video.rar"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Arabic_language_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/English_language_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/English_sec_lang_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_Ar_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_EN_Prp2_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة الفرنسية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Math_FR_Prp2_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Islamic_religion_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Cristian_religion_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_Ar_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_EN_Pep2_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الفرنسية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Science_FR_Pep2_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Social_studies_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/ICT_ARABIC_Prp2_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/ICT_EN_Prp2_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الصناعة وريادة الأعمال",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Industry_Prep2_T1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "مهارات الزراعة وريادة الأعمال",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Agriculture_2_Preparatory_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "المكتبات ومهارات البحث",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Libraries_2prep_tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإيطالية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Italiano_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Arabic_language_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_language_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_Ar_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_EN_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات باللغة الفرنسية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Math_fr_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Islamic_religion_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Cristian_Prp3_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Social_studies_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/ICT_ARABIC_Prp3_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الكمبيوتر وتكنولوجيا المعلومات والاتصالات باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/ICT_EN_Prp3_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة العربية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_AR_Prp3_Tr1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الإنجليزية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_EN_Prp3_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "العلوم باللغة الفرنسية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Science_FR_Prp3_TR1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الإعلام التربوى",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Edu_media_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية المسرحية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/Theatre_Edu_prep3_t1.pdf"
+  }
+]

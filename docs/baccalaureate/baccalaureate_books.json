@@ -1,0 +1,211 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة العربية",
+    "type": "كتاب الطالب - الجزء الأول",
+    "book_type": "كتاب الطالب - الجزء الأول",
+    "description": "اللغة العربية( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Arabic-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الثاني",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة العربية",
+    "type": "كتاب الطالب - الجزء الثاني",
+    "book_type": "كتاب الطالب - الجزء الثاني",
+    "description": "اللغة العربية( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Arabic-EB-part2.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة العربية",
+    "type": "كتاب الطالب - القصة",
+    "book_type": "كتاب الطالب - القصة",
+    "description": "اللغة العربية( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Story-Ar-EB.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة العربية",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "book_type": "كتاب التقييمات - الجزء الأول",
+    "description": "اللغة العربية( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Arabic-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "التاريخ المصري",
+    "type": "كتاب الطالب - الجزء الأول",
+    "book_type": "كتاب الطالب - الجزء الأول",
+    "description": "االتاريخ الوطنى ( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EgyptianHistory-Ar-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الثاني",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "التاريخ المصري",
+    "type": "كتاب الطالب - الجزء الثاني",
+    "book_type": "كتاب الطالب - الجزء الثاني",
+    "description": "االتاريخ الوطنى ( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EgyptianHistory-Ar-EB-part2.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "التاريخ المصري",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "book_type": "كتاب التقييمات - الجزء الأول",
+    "description": "االتاريخ الوطنى ( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/EgyptianHistory-Ar-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة الأجنبية الأولى- اللغة الإنجليزية",
+    "type": "حزمة كتب وتقييمات اللغة",
+    "book_type": "حزمة كتب وتقييمات اللغة",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/CoreSubjects/FirstForeignLanguage/english/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد الأساسية لجميع المسارات",
+    "subject": "اللغة الأجنبية الأولى- اللغة الفرنسية",
+    "type": "حزمة كتب وتقييمات اللغة",
+    "book_type": "حزمة كتب وتقييمات اللغة",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/CoreSubjects/FirstForeignLanguage/french/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الطب وعلوم الحياة - الرياضيات",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Medicine-LifeSciences/Mathematics/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الطب وعلوم الحياة - الفيزياء",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Medicine-LifeSciences/Physics/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الهندسة وعلوم الحاسب - الكيمياء",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Engineering-ComputerScience/Chemistry/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الهندسة وعلوم الحاسب - البرمجة والذكاء الأصطناعي",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Engineering-ComputerScience/Programming-ArtificialIntelligence/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الأعمال - المحاسبة",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Business/Accounting/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الأعمال - إدارة الأعمال",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Business/BusinessAdministration/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الأداب والفنون - علم النفس",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Arts-Humanities/Psychology/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "المواد التخصصية لكل مسار",
+    "subject": "مسار الأداب والفنون - اللغات الأجنبية الثانية",
+    "type": "حزمة الكتب والتقييمات التخصصية",
+    "book_type": "حزمة الكتب والتقييمات التخصصية",
+    "description": "الصف الثاني",
+    "link": "https://ellibrary.moe.gov.eg/EgyptianBaccalaureate/SpecializedSubjects/Arts-Humanities/SecondForeignLanguages/"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "الأنشطة",
+    "subject": "الأنشطة - الثقافة المالية (عربي)",
+    "type": "كتاب الطالب (الجزء الأول والثاني)",
+    "book_type": "كتاب الطالب (الجزء الأول والثاني)",
+    "description": "الثقافة المالية باللغة العربية ( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/FinancialLiteracy-Ar-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول والثاني",
+    "category": "الأنشطة",
+    "subject": "الأنشطة - الثقافة المالية (إنجليزي)",
+    "type": "كتاب الطالب (الجزء الأول والثاني)",
+    "book_type": "كتاب الطالب (الجزء الأول والثاني)",
+    "description": "الثقافة المالية باللغة الإنجليزية ( الصف الثاني )",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/FinancialLiteracy-En-EB-part1.pdf"
+  }
+]

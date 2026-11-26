@@ -1,0 +1,50 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory2/Term1/StudentBook/Social_studies_prep2_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Social_studies_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Social_studies_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Social_studies_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Social_studies_prep_all_blind.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثاني الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الدراسات الاجتماعية",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Social_studies_prep_all_deaf.pdf"
+  }
+]

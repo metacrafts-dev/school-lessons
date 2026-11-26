@@ -1,0 +1,47 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الفيزياء",
+    "type": "كتاب الطالب - الجزءالأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Physics-Ar-EB-part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الفيزياء",
+    "type": "كتاب الطالب - الجزءالأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Physics-En-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الفيزياء",
+    "type": "كتاب الطالب - الجزءالأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Physics-Fr-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الفيزياء",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Physics-Ar-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الفيزياء",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Physics-En-EB-Assessments-1.pdf"
+  }
+]

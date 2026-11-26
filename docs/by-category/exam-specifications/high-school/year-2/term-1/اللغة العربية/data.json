@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Arabic_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Arabic_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Arabic_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة العربية",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Arabic_sec_1_2_deaf.pdf"
+  }
+]

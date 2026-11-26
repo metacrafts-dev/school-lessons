@@ -1,0 +1,50 @@
+[
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/StudentBook/English_language_prim1_t1.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "كتاب الأداءات والتقييمات",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Primary/Primary1/Term1/Book_of_Performance_and_Evaluations/English_prim1_t1_Assmt.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/English_1_2_3_4_5_6.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/English_1_2_3_4_5_6.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/English_1_2_3_4_5_6_blind.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الأول الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/English_prim_1_2_3_4_5_6_deaf.pdf"
+  }
+]

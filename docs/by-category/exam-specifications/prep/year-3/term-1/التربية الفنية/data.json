@@ -1,0 +1,50 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Art_Education_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Art_Education_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Art_Education_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية (مسار مصري)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Egyptian_path/Art_Education_prep_3.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Art_Education_prep_all_blind.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الفنية",
+    "type": "مواصفات الورقة الامتحانية (إعدادي مهني)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Vocational_education/Art_education_prep_all_Vocational.pdf"
+  }
+]

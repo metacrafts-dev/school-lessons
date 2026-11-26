@@ -1,0 +1,47 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الأعمال - إدارة الأعمال",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Business-AR-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الأعمال - إدارة الأعمال",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Business-En-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الأعمال - إدارة الأعمال",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Business-Fr-EB-Part1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الأعمال - إدارة الأعمال",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Business-AR-EB-Assessments-1.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الأعمال - إدارة الأعمال",
+    "type": "كتاب التقييمات - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/EB-Assessments/Business-En-EB-Assessments-1.pdf"
+  }
+]

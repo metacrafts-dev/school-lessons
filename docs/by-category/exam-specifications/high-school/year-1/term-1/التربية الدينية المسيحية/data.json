@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Christian_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Christian_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Christian_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Christian_sec_1_blind.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية المسيحية",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Christian_sec_1_2_deaf.pdf"
+  }
+]

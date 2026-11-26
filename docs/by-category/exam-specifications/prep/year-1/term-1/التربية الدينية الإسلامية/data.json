@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Islamic__prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Islamic_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Islamic__prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Islamic_prep_all_blind.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التربية الدينية الإسلامية",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Islamic_prep_all_deaf.pdf"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory3/Term1/StudentBook/English_sec_lang_prep3_t1.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/English_2_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (مسار مصري)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Egyptian_path/English_2_prep_3.pdf"
+  }
+]

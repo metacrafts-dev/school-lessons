@@ -1,0 +1,29 @@
+[
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الثاني",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب الطالب - الجزء الأول",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Mathematics-Fr-EB-Part2.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الثاني",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب الطالب - الجزء الثاني",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Mathematics-Ar-EB-Part2.pdf"
+  },
+  {
+    "stage": "البكالوريا المصرية",
+    "grade": "الصف الثاني الثانوي",
+    "term": "الفصل الدراسى الثاني",
+    "track": "المواد التخصصية لكل مسار",
+    "subject": "الطب وعلوم الحياة - الرياضيات",
+    "type": "كتاب الطالب - الجزء الثاني",
+    "link": "https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Mathematics-En-EB-Part2.pdf"
+  }
+]

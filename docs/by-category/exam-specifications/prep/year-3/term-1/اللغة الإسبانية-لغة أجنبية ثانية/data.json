@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Spanish_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Spanish_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Spanish_prep_all.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الثالث الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (مسار مصري)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Egyptian_path/Spanish_prep_3.pdf"
+  }
+]

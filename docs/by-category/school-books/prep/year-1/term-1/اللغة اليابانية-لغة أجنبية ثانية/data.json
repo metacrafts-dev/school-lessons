@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - كتاب الطالب",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/TEXTBOOK.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - كراسة التدريبات",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJSWorkbook.pdf"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - صوتيات",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/EJS_G7_audio.rar"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - بطاقة هيراجانا/كاتاكانا",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/Hiragana_Katakana_Card.xlsx"
+  },
+  {
+    "stage": "الإعدادية",
+    "grade": "الصف الأول الإعدادي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية - فيديو",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Prepratory/Prepratory1/Term1/StudentBook/Japanese_language_Prep1_T1/G7_Can_d0_Video.rar"
+  }
+]

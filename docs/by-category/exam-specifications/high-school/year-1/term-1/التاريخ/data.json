@@ -1,0 +1,34 @@
+[
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التاريخ",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/History_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التاريخ",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/History_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التاريخ",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/History_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "التاريخ",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/History_sec_1_blind.pdf"
+  }
+]

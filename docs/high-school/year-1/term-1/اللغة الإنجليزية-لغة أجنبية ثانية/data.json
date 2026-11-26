@@ -1,0 +1,26 @@
+[
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "book_type": "كتاب الطالب",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/Secondry/Secondry1/Term1/StudentBook/English_second_language_secondary1.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/English_2_sec_1_2.pdf"
+  },
+  {
+    "stage": "الثانوي العام",
+    "grade": "الصف الأول الثانوي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "اللغة الإنجليزية-لغة أجنبية ثانية",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/English_2_sec_1_2.pdf"
+  }
+]

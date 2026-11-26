@@ -1,0 +1,754 @@
+[
+  {
+    "rel": "baccalaureate\\عام\\الأداب والفنون - اللغات الأجنبية الثانية (اللغة الصينية)\\Chinese-L2-EB-Assessments-1.pdf",
+    "stem": "Chinese-L2-EB-Assessments-1",
+    "pages": 33,
+    "stage": "baccalaureate",
+    "grade": "عام",
+    "subject": "Chinese-L2-EB-Assessments-1.pdf"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\التاريخ\\History_Sec1_Tr1.pdf",
+    "stem": "History_Sec1_Tr1",
+    "pages": 171,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "التاريخ"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\التربية الدينية الإسلامية\\deen_islamy_1sec_t1_t2.pdf",
+    "stem": "deen_islamy_1sec_t1_t2",
+    "pages": 112,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "التربية الدينية الإسلامية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\التربية الدينية المسيحية\\Christian_1sec_t1.pdf",
+    "stem": "Christian_1sec_t1",
+    "pages": 160,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\الرياضيات باللغة الإنجليزية\\Mathematics_EN_Tr1_Secondary.pdf",
+    "stem": "Mathematics_EN_Tr1_Secondary",
+    "pages": 123,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\الرياضيات باللغة العربية\\Mathematics_AR_Tr1_Secondary.pdf",
+    "stem": "Mathematics_AR_Tr1_Secondary",
+    "pages": 121,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\الرياضيات باللغة الفرنسية\\Mathematics_FR_Tr1_Secondary.pdf",
+    "stem": "Mathematics_FR_Tr1_Secondary",
+    "pages": 129,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\اللغة الإسبانية-لغة أجنبية ثانية\\Espanol_language_Sec1_Tr1.pdf",
+    "stem": "Espanol_language_Sec1_Tr1",
+    "pages": 80,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\اللغة العربية\\arabic_1sec_t1.pdf",
+    "stem": "arabic_1sec_t1",
+    "pages": 152,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "اللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\اللغة العربية-القصة\\Arabic_language_STORY_Sec1_Tr1.pdf",
+    "stem": "Arabic_language_STORY_Sec1_Tr1",
+    "pages": 124,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "اللغة العربية-القصة"
+  },
+  {
+    "rel": "high-school\\year-1\\term-1\\اللغة العربية-القواعد الأساسية للنحو والصرف\\naho_general_TR1_1sec.pdf",
+    "stem": "naho_general_TR1_1sec",
+    "pages": 184,
+    "stage": "high-school",
+    "grade": "year-1",
+    "subject": "اللغة العربية-القواعد الأساسية للنحو والصرف"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\التاريخ\\History_Sec2_Tr1.pdf",
+    "stem": "History_Sec2_Tr1",
+    "pages": 201,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "التاريخ"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\التربية الدينية المسيحية\\Christian_religion_Sec2_Tr1.pdf",
+    "stem": "Christian_religion_Sec2_Tr1",
+    "pages": 152,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الرياضيات البحتة باللغة الإنجليزية\\pure_Mathematics_ENGLISH_Sec2_Tr1.pdf",
+    "stem": "pure_Mathematics_ENGLISH_Sec2_Tr1",
+    "pages": 148,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الرياضيات البحتة باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الرياضيات البحتة باللغة العربية\\pure_Mathematics_ARABIC_Sec2_Tr1.pdf",
+    "stem": "pure_Mathematics_ARABIC_Sec2_Tr1",
+    "pages": 148,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الرياضيات البحتة باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الرياضيات البحتة باللغة الفرنسية\\pure_Mathematics_FR_Sec2_Tr1.pdf",
+    "stem": "pure_Mathematics_FR_Sec2_Tr1",
+    "pages": 150,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الرياضيات البحتة باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الرياضيات العامة باللغة الإنجليزية\\General_Mathematics_ENGLISH_Sec2_Tr1.pdf",
+    "stem": "General_Mathematics_ENGLISH_Sec2_Tr1",
+    "pages": 101,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الرياضيات العامة باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الرياضيات العامة باللغة العربية\\General_Mathematics_ARABIC_Sec2_Tr1.pdf",
+    "stem": "General_Mathematics_ARABIC_Sec2_Tr1",
+    "pages": 191,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الرياضيات العامة باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الفيزياء باللغة العربية\\Physics_Arabic_2_Secondary_TR1.pdf",
+    "stem": "Physics_Arabic_2_Secondary_TR1",
+    "pages": 98,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الفيزياء باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\الكيمياء باللغة العربية\\Chemistry_Arabic_2_Secondary_TR1.pdf",
+    "stem": "Chemistry_Arabic_2_Secondary_TR1",
+    "pages": 64,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "الكيمياء باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\اللغة الإسبانية-لغة أجنبية ثانية\\Espanol_language_Sec2_Tr1.pdf",
+    "stem": "Espanol_language_Sec2_Tr1",
+    "pages": 108,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\اللغة العربية\\Arabic_language_Sec2_Tr1.pdf",
+    "stem": "Arabic_language_Sec2_Tr1",
+    "pages": 104,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "اللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\اللغة العربية-القواعد الأساسية للنحو والصرف\\naho_general_TR1_1sec.pdf",
+    "stem": "naho_general_TR1_1sec",
+    "pages": 184,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "اللغة العربية-القواعد الأساسية للنحو والصرف"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\اللغة الفرنسية-لغة أجنبية أولى-القصة\\Premiere_langue_francaise_STORY_Sec2_Tr1.pdf",
+    "stem": "Premiere_langue_francaise_STORY_Sec2_Tr1",
+    "pages": 66,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "اللغة الفرنسية-لغة أجنبية أولى-القصة"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\المواطنة وحقوق الإنسان\\Citizenship_and_Human_Rights_Sec2_Tr1.pdf",
+    "stem": "Citizenship_and_Human_Rights_Sec2_Tr1",
+    "pages": 96,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "المواطنة وحقوق الإنسان"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\تطبيقات الرياضيات باللغة الإنجليزية\\Application_Mathematics_EN_Sec2_Tr1.pdf",
+    "stem": "Application_Mathematics_EN_Sec2_Tr1",
+    "pages": 91,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "تطبيقات الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\تطبيقات الرياضيات باللغة العربية\\Application_Mathematics_AR_Sec2_Tr1.pdf",
+    "stem": "Application_Mathematics_AR_Sec2_Tr1",
+    "pages": 89,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "تطبيقات الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\تطبيقات الرياضيات باللغة الفرنسية\\Application_des_Mathematiques_FR_Sec2_Tr1.pdf",
+    "stem": "Application_des_Mathematiques_FR_Sec2_Tr1",
+    "pages": 93,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "تطبيقات الرياضيات باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-2\\term-1\\جغرافيا التنمية\\Geography_Sec2_Tr1.pdf",
+    "stem": "Geography_Sec2_Tr1",
+    "pages": 169,
+    "stage": "high-school",
+    "grade": "year-2",
+    "subject": "جغرافيا التنمية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الأحياء باللغة العربية\\Biology_ARABIC_Sec3.pdf",
+    "stem": "Biology_ARABIC_Sec3",
+    "pages": 167,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الأحياء باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\التاريخ\\History_Sec3.pdf",
+    "stem": "History_Sec3",
+    "pages": 152,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "التاريخ"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\التربية الدينية الإسلامية\\Islamic_religion_Sec3.pdf",
+    "stem": "Islamic_religion_Sec3",
+    "pages": 144,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "التربية الدينية الإسلامية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\التربية الوطنية\\National_Education_Sec3_tr1.pdf",
+    "stem": "National_Education_Sec3_tr1",
+    "pages": 84,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "التربية الوطنية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الجغرافيا السياسية\\Geography_Sec3.pdf",
+    "stem": "Geography_Sec3",
+    "pages": 172,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الجغرافيا السياسية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الرياضيات البحتة باللغة الإنجليزية\\pure_Mathematics_ENGLISH_Sec3.pdf",
+    "stem": "pure_Mathematics_ENGLISH_Sec3",
+    "pages": 199,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الرياضيات البحتة باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الرياضيات البحتة باللغة العربية\\pure_Mathematics_ARABIC_Sec3.pdf",
+    "stem": "pure_Mathematics_ARABIC_Sec3",
+    "pages": 203,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الرياضيات البحتة باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الرياضيات البحتة باللغة الفرنسية\\pure_Mathematics_FRENCH_Sec3.pdf",
+    "stem": "pure_Mathematics_FRENCH_Sec3",
+    "pages": 203,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الرياضيات البحتة باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الرياضيات التطبيقية باللغة العربية\\applied_Mathematics_ARABIC_Sec3.pdf",
+    "stem": "applied_Mathematics_ARABIC_Sec3",
+    "pages": 162,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الرياضيات التطبيقية باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الفيزياء باللغة الإنجليزية\\Physics_English_Sec3.pdf",
+    "stem": "Physics_English_Sec3",
+    "pages": 219,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الفيزياء باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الفيزياء باللغة العربية\\Physics_Arabic_Sec3.pdf",
+    "stem": "Physics_Arabic_Sec3",
+    "pages": 201,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الفيزياء باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الفيزياء باللغة الفرنسية\\Physics_French_Sec3.pdf",
+    "stem": "Physics_French_Sec3",
+    "pages": 208,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الفيزياء باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الكيمياء باللغة الإنجليزية\\Chemistry_English_Sec3.pdf",
+    "stem": "Chemistry_English_Sec3",
+    "pages": 200,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الكيمياء باللغة الإنجليزية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الكيمياء باللغة العربية\\Chemistry_Arabic_Sec3.pdf",
+    "stem": "Chemistry_Arabic_Sec3",
+    "pages": 188,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الكيمياء باللغة العربية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\الكيمياء باللغة الفرنسية\\Chemistry_FR_Sec3.pdf",
+    "stem": "Chemistry_FR_Sec3",
+    "pages": 189,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "الكيمياء باللغة الفرنسية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\اللغة الإسبانية-لغة أجنبية ثانية\\Espanol_language_Sec3.pdf",
+    "stem": "Espanol_language_Sec3",
+    "pages": 132,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "اللغة الإسبانية-لغة أجنبية ثانية"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\اللغة العربية-القصة\\Arabic_language_Story_Sec3.pdf",
+    "stem": "Arabic_language_Story_Sec3",
+    "pages": 140,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "اللغة العربية-القصة"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\اللغة العربية-القواعد الأساسية للنحو والصرف\\Arabic_language_NAHO_Sec3.pdf",
+    "stem": "Arabic_language_NAHO_Sec3",
+    "pages": 184,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "اللغة العربية-القواعد الأساسية للنحو والصرف"
+  },
+  {
+    "rel": "high-school\\year-3\\term-1\\اللغة الفرنسية-لغة أجنبية أولى\\Premiere_langue_francaise_SB_Sec3.pdf",
+    "stem": "Premiere_langue_francaise_SB_Sec3",
+    "pages": 133,
+    "stage": "high-school",
+    "grade": "year-3",
+    "subject": "اللغة الفرنسية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "kindergarten\\kg-1\\term-1\\اللغة الإنجليزية\\English_language_kg1_t1.pdf",
+    "stem": "English_language_kg1_t1",
+    "pages": 101,
+    "stage": "kindergarten",
+    "grade": "kg-1",
+    "subject": "اللغة الإنجليزية"
+  },
+  {
+    "rel": "kindergarten\\kg-1\\term-1\\اللغة العربية\\Arabic_langugae_kg1_t1.pdf",
+    "stem": "Arabic_langugae_kg1_t1",
+    "pages": 96,
+    "stage": "kindergarten",
+    "grade": "kg-1",
+    "subject": "اللغة العربية"
+  },
+  {
+    "rel": "kindergarten\\kg-2\\term-1\\اللغة الإنجليزية\\English_language_kg2_t1.pdf",
+    "stem": "English_language_kg2_t1",
+    "pages": 125,
+    "stage": "kindergarten",
+    "grade": "kg-2",
+    "subject": "اللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\التربية الدينية المسيحية\\Christian_Education_Prep1_T1.pdf",
+    "stem": "Christian_Education_Prep1_T1",
+    "pages": 98,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_Prp1_T1.pdf",
+    "stem": "Math_EN_Prp1_T1",
+    "pages": 122,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\العلوم باللغة الإنجليزية\\Science_EN_Prp1_TR1..pdf",
+    "stem": "Science_EN_Prp1_TR1.",
+    "pages": 102,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "العلوم باللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\العلوم باللغة العربية\\Science_Prep1_T1.pdf",
+    "stem": "Science_Prep1_T1",
+    "pages": 102,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "العلوم باللغة العربية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\العلوم باللغة الفرنسية\\Science_FR_Prp1_TR1.pdf",
+    "stem": "Science_FR_Prp1_TR1",
+    "pages": 101,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "العلوم باللغة الفرنسية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_Prep1_T1.pdf",
+    "stem": "English_Prep1_T1",
+    "pages": 113,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\اللغة اليابانية-لغة أجنبية ثانية\\EJSWorkbook.pdf",
+    "stem": "EJSWorkbook",
+    "pages": 50,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "اللغة اليابانية-لغة أجنبية ثانية"
+  },
+  {
+    "rel": "prep\\year-1\\term-1\\مهارات الصناعة وريادة الأعمال\\Industry_Skills_prep1_t1.pdf",
+    "stem": "Industry_Skills_prep1_t1",
+    "pages": 60,
+    "stage": "prep",
+    "grade": "year-1",
+    "subject": "مهارات الصناعة وريادة الأعمال"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\التربية الدينية المسيحية\\Cristian_religion_prep2_t1.pdf",
+    "stem": "Cristian_religion_prep2_t1",
+    "pages": 98,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\الدراسات الاجتماعية\\Social_studies_prep2_t1.pdf",
+    "stem": "Social_studies_prep2_t1",
+    "pages": 106,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "الدراسات الاجتماعية"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_Prp2_T1.pdf",
+    "stem": "Math_EN_Prp2_T1",
+    "pages": 130,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\الرياضيات باللغة الفرنسية\\Math_FR_Prp2_T1.pdf",
+    "stem": "Math_FR_Prp2_T1",
+    "pages": 128,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "الرياضيات باللغة الفرنسية"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_language_prep2_t1.pdf",
+    "stem": "English_language_prep2_t1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "prep\\year-2\\term-1\\اللغة العربية\\Arabic_language_prep2_t1.pdf",
+    "stem": "Arabic_language_prep2_t1",
+    "pages": 162,
+    "stage": "prep",
+    "grade": "year-2",
+    "subject": "اللغة العربية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_prep3_t1.pdf",
+    "stem": "Math_EN_prep3_t1",
+    "pages": 112,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\الرياضيات باللغة العربية\\Math_Ar_prep3_t1.pdf",
+    "stem": "Math_Ar_prep3_t1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\الرياضيات باللغة الفرنسية\\Math_fr_prep3_t1.pdf",
+    "stem": "Math_fr_prep3_t1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "الرياضيات باللغة الفرنسية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\العلوم باللغة الإنجليزية\\Science_EN_Prp3_TR1.pdf",
+    "stem": "Science_EN_Prp3_TR1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "العلوم باللغة الإنجليزية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\العلوم باللغة العربية\\Science_AR_Prp3_Tr1.pdf",
+    "stem": "Science_AR_Prp3_Tr1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "العلوم باللغة العربية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\العلوم باللغة الفرنسية\\Science_FR_Prp3_TR1.pdf",
+    "stem": "Science_FR_Prp3_TR1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "العلوم باللغة الفرنسية"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_language_prep3_t1.pdf",
+    "stem": "English_language_prep3_t1",
+    "pages": 114,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "prep\\year-3\\term-1\\اللغة العربية\\Arabic_language_prep3_t1.pdf",
+    "stem": "Arabic_language_prep3_t1",
+    "pages": 162,
+    "stage": "prep",
+    "grade": "year-3",
+    "subject": "اللغة العربية"
+  },
+  {
+    "rel": "primary\\year-1\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_P1_T1.pdf",
+    "stem": "Math_EN_P1_T1",
+    "pages": 98,
+    "stage": "primary",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "primary\\year-1\\term-1\\الرياضيات باللغة العربية\\Math_Ar_prim1_t1.pdf",
+    "stem": "Math_Ar_prim1_t1",
+    "pages": 96,
+    "stage": "primary",
+    "grade": "year-1",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-2\\term-1\\التربية الدينية الإسلامية\\Islamic_religion_prim2_t1.pdf",
+    "stem": "Islamic_religion_prim2_t1",
+    "pages": 88,
+    "stage": "primary",
+    "grade": "year-2",
+    "subject": "التربية الدينية الإسلامية"
+  },
+  {
+    "rel": "primary\\year-2\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_language_prim2_t1.pdf",
+    "stem": "English_language_prim2_t1",
+    "pages": 104,
+    "stage": "primary",
+    "grade": "year-2",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "primary\\year-3\\term-1\\الرياضيات باللغة العربية\\Math_Ar_prim3_t1.pdf",
+    "stem": "Math_Ar_prim3_t1",
+    "pages": 120,
+    "stage": "primary",
+    "grade": "year-3",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-3\\term-1\\الرياضيات باللغة الفرنسية\\Math_FR_P3_T1.pdf",
+    "stem": "Math_FR_P3_T1",
+    "pages": 120,
+    "stage": "primary",
+    "grade": "year-3",
+    "subject": "الرياضيات باللغة الفرنسية"
+  },
+  {
+    "rel": "primary\\year-3\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_language_prim3_t1.pdf",
+    "stem": "English_language_prim3_t1",
+    "pages": 120,
+    "stage": "primary",
+    "grade": "year-3",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\التربية الدينية الإسلامية\\Islamic_religion_prim4_t1.pdf",
+    "stem": "Islamic_religion_prim4_t1",
+    "pages": 98,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "التربية الدينية الإسلامية"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\التربية الدينية المسيحية\\Cristian_religion_prim4_t1.pdf",
+    "stem": "Cristian_religion_prim4_t1",
+    "pages": 98,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_P4_T1.pdf",
+    "stem": "Math_EN_P4_T1",
+    "pages": 136,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\الرياضيات باللغة العربية\\Math_Ar_prim4_t1.pdf",
+    "stem": "Math_Ar_prim4_t1",
+    "pages": 136,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\العلوم باللغة الإنجليزية\\Science_EN_PRIM4_Tr1.pdf",
+    "stem": "Science_EN_PRIM4_Tr1",
+    "pages": 106,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "العلوم باللغة الإنجليزية"
+  },
+  {
+    "rel": "primary\\year-4\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_language_prim4_t1.pdf",
+    "stem": "English_language_prim4_t1",
+    "pages": 121,
+    "stage": "primary",
+    "grade": "year-4",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "primary\\year-5\\term-1\\التربية الدينية المسيحية\\Cristian_reliogion_prim5_t1.pdf",
+    "stem": "Cristian_reliogion_prim5_t1",
+    "pages": 98,
+    "stage": "primary",
+    "grade": "year-5",
+    "subject": "التربية الدينية المسيحية"
+  },
+  {
+    "rel": "primary\\year-5\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_prim5_t1.pdf",
+    "stem": "Math_EN_prim5_t1",
+    "pages": 140,
+    "stage": "primary",
+    "grade": "year-5",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "primary\\year-5\\term-1\\الرياضيات باللغة العربية\\Math_Ar_prim5_t1.pdf",
+    "stem": "Math_Ar_prim5_t1",
+    "pages": 142,
+    "stage": "primary",
+    "grade": "year-5",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-6\\term-1\\الرياضيات باللغة الإنجليزية\\Math_EN_P6_T1.pdf",
+    "stem": "Math_EN_P6_T1",
+    "pages": 122,
+    "stage": "primary",
+    "grade": "year-6",
+    "subject": "الرياضيات باللغة الإنجليزية"
+  },
+  {
+    "rel": "primary\\year-6\\term-1\\الرياضيات باللغة العربية\\Math_Primary6_T1.pdf",
+    "stem": "Math_Primary6_T1",
+    "pages": 122,
+    "stage": "primary",
+    "grade": "year-6",
+    "subject": "الرياضيات باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-6\\term-1\\العلوم باللغة العربية\\Science_Primary6_T1.pdf",
+    "stem": "Science_Primary6_T1",
+    "pages": 98,
+    "stage": "primary",
+    "grade": "year-6",
+    "subject": "العلوم باللغة العربية"
+  },
+  {
+    "rel": "primary\\year-6\\term-1\\اللغة الإنجليزية-لغة أجنبية أولى\\English_Primary6_T1.pdf",
+    "stem": "English_Primary6_T1",
+    "pages": 113,
+    "stage": "primary",
+    "grade": "year-6",
+    "subject": "اللغة الإنجليزية-لغة أجنبية أولى"
+  },
+  {
+    "rel": "primary\\year-6\\term-1\\اللغة العربية\\Arabic_Primary6_T1.pdf",
+    "stem": "Arabic_Primary6_T1",
+    "pages": 154,
+    "stage": "primary",
+    "grade": "year-6",
+    "subject": "اللغة العربية"
+  }
+]

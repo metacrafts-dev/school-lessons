@@ -1,0 +1,42 @@
+[
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الرابع الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات",
+    "type": "مواصفات الورقة الامتحانية",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/General_education/General_education/Math_prim_1_2_3_4_5_6.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الرابع الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات",
+    "type": "مواصفات الورقة الامتحانية (دمج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Inclusive_Education_TR1/Math_prim_1_2_3_4_5_6.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الرابع الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات",
+    "type": "مواصفات الورقة الامتحانية (أبناؤنا في الخارج)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Our_stud_abroad/Math_prim_3_4_5_6.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الرابع الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات",
+    "type": "مواصفات الورقة الامتحانية (مكفوفين)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Math_prim_1_2_3_4_5_6_blind.pdf"
+  },
+  {
+    "stage": "الابتدائية",
+    "grade": "الصف الرابع الابتدائي",
+    "term": "الفصل الدراسى الأول",
+    "subject": "الرياضيات",
+    "type": "مواصفات الورقة الامتحانية (صم وضعاف سمع)",
+    "link": "https://elearnningcontent.blob.core.windows.net/elearnningcontent/2026_2027/paper_test_specs/Special_needs/Math_prim_1_2_3_4_5_6_deaf.pdf"
+  }
+]
