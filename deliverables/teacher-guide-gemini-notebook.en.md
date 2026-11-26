@@ -6,8 +6,8 @@ Arabic version: `teacher-guide-gemini-notebook.ar.md` (same content, same sectio
 This guide turns a textbook lesson into a **checked lesson pack** that students actually listen to, watch and practise with: audio, video, flashcards, a quiz, a mind map and a printable study guide. It is built for teachers in Egyptian schools, from kindergarten to secondary, for every subject and every language of instruction.
 
 > **How to read this guide**
-> - **Every teacher:** Parts A–C (pages you will use every week), then your subject in Part E and your language case in Part F.
-> - **Supervisors:** add Part G (quality, privacy, filing).
+> - **Every teacher:** Parts A–D (what you will use every week), then your subject in Part E and your language case in Part F, then **Sections 15–18 and 20**. Print **Appendix A**.
+> - **Supervisors:** add Section 19.
 > - **Trainers / AI technicians:** everything, especially Section 19.
 > - Upload this file (PDF or Markdown) as the first source of the **Master notebook** (Section 4.4).
 
@@ -55,7 +55,7 @@ Each law marked **(P)** is a *Programme rule* (our local practice). Anything not
 4. **The teacher solves; the AI presents. (P)** For any problem with an answer (math, physics, chemistry, grammar parsing), solve and check it in Chat first. Then paste the checked solution into the Studio steering prompt. A video must never be the first place a solution is worked out.
 5. **No pack reaches students unchecked. (P)** Use the Teacher Check (Section 15). No signature, no publishing.
 6. **No student personal data, ever. (P)** No names, photos, marks or identifiable work in any notebook (Section 16).
-7. **Engagement is designed, not hoped for. (P)** Every output has a hook, a local example, a character or question, and a call to act (Part D).
+7. **Engagement is designed, not hoped for. (P)** Every audio or video output has a hook, a local example, a character or question, and a call to act (Part D); text outputs end with a question or task.
 8. **Sacred content is protected in every subject. (P)** No AI recitation of Quran verses, and no depiction of any prophet, companion or angel in any image, in **any** subject: religious education, Arabic texts, history, values. Steer against it, watch the full video, and regenerate if it appears (Section 13.7). Christian education follows its own church's guidance on images, decided by its teacher.
 
 ## 3. Verified feature reference
@@ -111,12 +111,14 @@ Grade codes: `KG1 KG2 · P1–P6 · Prep1–Prep3 · Sec1–Sec3`.
 
 ### 4.3 Preparing the PDFs (a 5-minute test that saves hours)
 
+Once per term, before step 1: **Create new notebook** → name it `Subject-Grade-Term` → **Add sources** → upload → **Configure Chat → Learning Guide**.
+
 1. **Trim** to the pages you teach. Your trainer gives you the link to the administration's shared library of textbooks, already split into chapters by stage, year, term and subject. Use those files where they exist.
 2. **Extraction test.** After uploading, ask in Chat: *"Quote, word for word, the first exercise on page [p]."* Compare with the paper book.
    - **Clean** → continue.
-   - **Garbled** (common with scanned pages, equations, Arabic diacritics and tables) → retype the key content (exercises, formulas, rules) into a Google Doc or Markdown file and add that as the Lesson source instead, or as well.
+   - **Garbled** (common with scanned pages, equations, Arabic diacritics and tables) → retype the key content (exercises, formulas, rules) into a Google Doc or Markdown file and add that as the Lesson source **instead**, named `…-Lesson`.
 3. **Figures.** Diagrams, maps and graphs may not be "read" reliably. Describe each important figure in one line in your Teacher Notes ("Figure 3, p. 41: the water cycle, with 4 labelled arrows…").
-4. **Exam spec and assessments.** From the same shared library, open the **Exam specifications** folder for your stage, year, term and subject and add the matching file as the Spec. The **Performance assessments** folder (weekly tasks) holds good examples of question style; use them as a Spec-type source.
+4. **Exam spec and assessments.** From the same shared library, open the **Exam specifications** folder for your stage, year, term and subject and add the matching file as the Spec. The **Performance assessments** folder (weekly tasks) holds good examples of question style; use them **in place of the Spec only when no Spec exists for that lesson**.
 
 > *Trainer note:* in the programme repository these are `books/<stage>/year-N/term-N/<subject>/`, `exam-specifications/…` and `performance-assessments/…`. Publish them to teachers as a SharePoint or Drive folder link.
 
@@ -191,7 +193,9 @@ AVOID (keep these defaults, add your own):
 
 | Output | Check these |
 |---|---|
-| Chat prep (definitions, summary, solutions) | Lesson (+ Bridge if used) |
+| Chat prep: P2, P3, P4 | Lesson (+ Bridge if used) |
+| P5 misconceptions | Lesson + Notes (+ Bridge if used) |
+| P8 exam alignment | Lesson + Spec |
 | Study Guide, Mind Map, Flashcards | Lesson + Checked Summary |
 | Quiz | Lesson + Checked Summary + Spec |
 | Audio, Video | Lesson + Checked Summary + Notes (+ Bridge if used) |
@@ -208,7 +212,7 @@ AVOID (keep these defaults, add your own):
 
 ## 7. What a pack contains
 
-**Core pack — every lesson.** One media output per lesson means at most about 6 lessons a day on Workspace Standard's ~3 audio + ~3 video per day. For free accounts, see Section 17.
+**Core pack — every lesson (activity subjects: Section 13.11).** One media output per lesson means at most about 6 lessons a day on Workspace Standard's ~3 audio + ~3 video per day. For free accounts, see Section 17.
 
 | Part | Made in | Student use |
 |---|---|---|
@@ -225,13 +229,13 @@ The **textbook lesson** is always the reference, never an output. Every pack par
 
 > Plan an estimate: the first pack takes about 60–90 minutes of teacher time plus waiting time. Later packs take about 30–40 minutes (a programme estimate, not a Google figure).
 
-**Step 1 — Prepare.** Lesson PDF trimmed, uploaded and extraction-tested (Section 4.3). Notes written and converted. Bridge added if needed.
+**Step 1 — Prepare.** Lesson PDF trimmed, uploaded and extraction-tested (Section 4.3). Notes written and converted. Bridge added if needed. Spec added (Section 4.3, step 4).
 
 **Step 2 — Definitions table (Chat).** Prompt P2 (Section 9.2). Check every row against the book.
 
 **Step 3 — Layered summary (Chat).** P3: per section, then a merged summary.
 
-**Step 4 — Worked solutions (Chat, problem-solving subjects only).** P4. Recompute every number yourself.
+**Step 4 — Worked solutions and misconceptions (Chat).** P4 for problem-solving subjects: recompute every number yourself. P5 for every lesson: check it against the book.
 
 **Step 5 — Freeze.** Save the checked summary, the worked solutions and the checked misconceptions list (P5) as one note titled `…-Checked-Summary`, then **Convert** it to a source. **Nothing goes to Studio until this exists.**
 
@@ -251,6 +255,8 @@ Text outputs first: errors are found fast and cost little. Audio and video last,
 |---|---|---|
 | **Chat prompts** | Chat box | Prepare material the **teacher** checks: definitions, summaries, solutions, misconceptions, gaps |
 | **Studio steering prompts** | The pencil (customize) on each Studio tile | Shape what **students** receive: focus, audience, order, tone, language |
+
+Prompts may be written in Arabic or English; state the output language and register inside the prompt.
 
 ### 9.2 Chat prompts
 
@@ -338,7 +344,7 @@ SCOPE: Only "[lesson title]", pages [a–b]. Skip [unit introduction / activitie
 START WITH: [a question, a puzzle or a mini-story with the series characters from Notes].
 ORDER: 1) [ ] 2) [ ] 3) [ ]  (the book's order)
 EXAMPLES: Facts and methods from the book only; everyday examples only from Notes.
-LANGUAGE: [register — see Part F]; say every key term exactly as the book prints it.
+LANGUAGE: [register — see Part F]; say every key term exactly as the book prints it. Warm, respectful tone; humour from situations, never from people.
 PACE: One idea at a time; repeat the main idea in 3 sentences at the end.
 END WITH: One question for the student to answer before next class.
 ```
@@ -350,6 +356,7 @@ END WITH: One question for the student to answer before next class.
 | **Audio — Deep Dive** | "Two hosts: one explains, one is a curious student who asks the questions my students ask (from Notes)." |
 | **Audio — The Brief** | "Only the 3 key takeaways, in under 2 minutes." |
 | **Audio — The Debate** | "Argue only positions stated in the book. End by stating what the book concludes." |
+| **Audio — The Critique** | "Critique only what the checked sources present; end with the book's rule." |
 | **Video — Explainer** | "One idea per scene. Show each key term on screen as written in the book. Refer to the book's figures by page; do not invent diagrams, maps or labels." |
 | **Video — Short** | "One idea only: [the idea]. Start with the question in the first 5 seconds." |
 | **Video with a solution** | "Present exactly this checked solution, one step per scene. Do not change numbers, symbols or method: [paste]." |
@@ -377,8 +384,8 @@ Many students in our schools meet a lesson as dense text they can't read well, i
 | "Why do I need this?" | **Start from their world** | A hook from Teacher Notes: a price, a match, a trip, a puzzle |
 | Long lessons lose attention | **One idea per output, short** | Shorts and Briefs; three short items beat one long one |
 | No connection to people | **Recurring characters** | The same two characters in every lesson of the term |
-| Fear of failure | **Early success, then challenge** | Easy flashcards first, then the quiz at medium; praise the attempt |
-| Forgetting | **Retrieval and spacing** | Quiz the next day; flashcards "Only cards you missed" at the end of the week; mixed quiz at the end of a unit |
+| Fear of failure | **Early success, then challenge** | Easy flashcards first, then the quiz at medium (Secondary: hard, Section 11); praise the attempt |
+| Forgetting | **Retrieval and spacing** | Quiz the next day; flashcards — retake only missed cards — at the end of the week; mixed quiz at the end of a unit |
 | Abstract ideas | **Concrete → picture → symbol** | Real object or story, then a book figure, then the rule |
 | Passive watching | **Every output ends with an action** | "Answer this before class", "Use two new words tonight" |
 
@@ -400,11 +407,11 @@ Lengths are programme targets. Check the real length of each output; the tool do
 
 ### 12.1 The weekly loop
 
-1. **Before class (home):** students receive the Audio or Explainer video and answer one question. *This works only once you've confirmed that your account can download media (Section 21, item 4). Until then, play media in class.*
-2. **Class start (5 minutes):** play a 60-second Short as the hook.
+1. **Before class (home):** students receive the Audio or a Short (Extended pack) and answer one question. *This works only once you've confirmed that your account can download media (Section 21, item 4). Until then, play media in class.*
+2. **Class start (5 minutes):** play a 60-second Short as the hook **if you made one (Extended pack); otherwise open with the audio**.
 3. **Class:** teach as usual; use the Study Guide on paper.
 4. **Class end or next day:** play the Quiz as a team game. The teacher reads the questions aloud; teams answer on paper; use **Explain** on the screen for wrong answers.
-5. **End of week:** the teacher shows the flashcards in class, using **Only cards you missed** for the cards the class got wrong. For home, download them as CSV and print or share the list.
+5. **End of week:** the teacher shows the flashcards in class, retaking only the cards the class got wrong. For home, download them as CSV and print or share the list.
 6. **End of unit:** a mixed quiz across the unit (check all its lesson sources deliberately and say so).
 
 ### 12.2 Getting packs to students
@@ -413,7 +420,7 @@ Lengths are programme targets. Check the real length of each output; the tool do
 - **Video public links are disabled on Workspace Education accounts.** Plan to play videos in class, or download and share the file if your account offers download (check).
 - Audio on the mobile app plays offline but can't be downloaded as a file. Check web download in your account.
 - Families pay for mobile data. Prefer **audio** and **Shorts** for home, and long videos in class.
-- Share through the school's approved channel (e.g. a class WhatsApp group run by the school). Never post student data with a file.
+- Share through the school's approved channel (e.g. the school's Teams or SharePoint channel; a WhatsApp group only if the school runs it — see Section 18). Never post student data with a file.
 
 ### 12.3 The Parent audio (one per unit)
 
@@ -421,15 +428,16 @@ Parents are the strongest engagement lever we have. Use The Brief, in simple Egy
 ```
 For parents of Grade [x] students. In under 2 minutes: what their child learns in
 this unit (3 points from the Checked Summary), why it matters in daily life (from
-Notes), and 3 simple questions a parent can ask at dinner. Respectful, warm, no
-jargon. Parents may not read well; speak simply.
+Notes), and 3 simple questions a parent can ask at dinner (for KG: 3 games to
+play at home with household objects). Respectful, warm, no jargon. Parents may
+not read well; speak simply.
 ```
 
 ---
 
 # Part E — Subject playbooks
 
-Each playbook covers: **traps** (what goes wrong in this subject), **best outputs**, **sources**, a **steering add-on**, and **checks** to add to the Teacher Check.
+Each playbook gives, where the subject needs them: **traps** (what goes wrong in this subject), **best outputs**, **sources**, a **steering add-on**, and **checks** to add to the Teacher Check.
 
 ## 13.1 Mathematics (Arabic-medium and English-medium)
 
@@ -508,12 +516,12 @@ result, in that order. Contrast commonly confused terms from the misconceptions 
 - **Grammar (نحو):** a P4-style worked parse in Chat. A video presents it one word per scene; flashcards hold rules and examples.
 - **Texts and poetry:** Audio **explains** meaning, imagery and the poet's context. **The teacher's own recorded reading, played in class**, is the model reading. Don't add it as a source: it would only be transcribed and would use a source slot. The AI doesn't recite poetry for students to imitate, and never recites Quran verses that appear in Arabic texts (Law 8).
 - **Reading (primary):** Short video with the target words on screen; the Study Guide as a read-along with diacritics on key words.
-- **Composition:** Critique audio on a **sample essay written by the teacher**. Never on student essays with names.
+- **Composition:** Critique audio on a **sample essay written by the teacher**; save the essay as a note, Convert it, and check it with Lesson + Checked Summary + that note. Never on student essays with names.
 - **Spelling (إملاء):** flashcards for rule plus example words.
 
 **Steering add-on:**
 ```
-Explain in simple Egyptian Arabic; quote every verse, sentence and example in
+Explain in simple Egyptian Arabic (up to Prep; Secondary: mostly MSA, Section 14.1); quote every verse, sentence and example in
 Modern Standard Arabic exactly as in the book. Do not recite or read poetry aloud
 as a model; explain meaning and imagery. Do not recite Quran verses; refer to them
 by page. Parsing must follow the book's analysis word for word.
@@ -681,7 +689,7 @@ Decide two things for every pack: **the language of the content** (what the book
 | **A. Arabic content, Arabic explanation** | Arabic-medium math, science, social studies | Arabic | Explain in simple Egyptian Arabic; terms, rules, verses and quotations in the book's Modern Standard Arabic |
 | **B. Learning a foreign language** | English, French | Primary and Prep: **Arabic**, with mixing by prompt (test with a Brief first). Secondary: the target language (Sections 13.4–13.5) | The target language for the content itself; Arabic for meaning and support, scaled by stage |
 | **C. English- or French-medium subject** | Math_EN, Science_EN, Science_FR in language schools | The book's language | The exam is in the book's language, so key terms stay in it. Add simple-language explanations. Put the Arabic term on flashcard backs to support understanding. |
-| **D. Classical or sacred text** | Poetry, Quran, hadith, Bible | Arabic | Quote exactly; never AI-recite; explain only (Sections 13.3, 13.7) |
+| **D. Classical or sacred text** | Poetry, Quran, hadith, Bible | Arabic | Quote exactly; never AI-recite the Quran; Bible passages follow the church's guidance; explain only (Sections 13.3, 13.7) |
 
 ### 14.1 Register (Arabic)
 
@@ -702,7 +710,7 @@ Decide two things for every pack: **the language of the content** (what the book
 
 ### 14.4 Mixing languages in one output
 
-Output Language sets the main language. Mixing (Arabic explanation with English words) is done by prompt and **must be tested**: generate a Brief first, since it's cheap and short, before committing to a Deep Dive or video.
+Output Language sets the main language. Mixing (Arabic explanation with English words) is done by prompt and **must be tested**: a Brief uses one Audio Overview of the daily cap — test once per format and language, not per lesson — before committing to a Deep Dive or video.
 
 ---
 
@@ -714,7 +722,7 @@ The **maker** (the teacher who built the pack):
 1. **Citations:** open **3 citations at random** and read each source passage word for word against the output.
 2. **Exact content:** check **100%** of numbers, formulas, dates, names, quotations, sacred texts and solutions against the book.
 3. **Full media review:** listen to the **full** audio and watch the **full** video (1.5× speed is fine). Check language, register, images, maps, diagrams and the series characters.
-4. **Sign:** add your staff code to the file name: `…-v1-YYYY-MM-DD-checked-<maker code>` (Section 18). No signature, no publishing.
+4. **Sign:** add your staff code to the file name: `…-v1-YYYY-MM-DD-checked-<maker code>` (Section 18). No signature, no publishing. **If an output has no file** (audio or video you cannot download), **put the same ending on the library item's title.**
 
 The **supervisor** does a separate spot check: 3 citations, the first 60 seconds of each media output, and one random quiz item. Then the supervisor appends `-sv-<supervisor code>` to the file name. The two checks don't replace each other.
 
@@ -780,7 +788,7 @@ The **supervisor** does a separate spot check: 3 citations, the first 60 seconds
 - ☐ Create a term Subject notebook, add a trimmed lesson and run the extraction test
 - ☐ Write a Teacher Notes note and convert it to a source
 - ☐ Perform the select ritual for each output type (Section 6 table)
-- ☐ Run P2, P3, P4 and P7; freeze and convert the Checked Summary
+- ☐ Run P2, P3, P4, P5 and P7; freeze and convert the Checked Summary
 - ☐ Fill in a Steering Card for their own subject, using the Part E add-on
 - ☐ Use Review producer notes to fix a video plan before rendering
 - ☐ Perform the full Teacher Check aloud, and find **one error the assessor planted**
@@ -847,6 +855,7 @@ The **supervisor** does a separate spot check: 3 citations, the first 60 seconds
 6. Whether diacritics on key words survive in the Study Guide.
 7. The daily caps for your exact Workspace edition.
 8. Workspace for Education access, if the programme intends to rely on it.
+9. Whether the Arabic prompts (Arabic guide, Section 9) work as well as the English in Chat and in the Studio steering box. Test with one Brief.
 
 ## 22. What changed from Edition 1
 
@@ -868,11 +877,20 @@ The **supervisor** does a separate spot check: 3 citations, the first 60 seconds
 | — | Parent audio, classroom loop, distribution | Engagement happens around the pack, not only inside it |
 | — | Law 8: sacred content protected in every subject | Verses and prophets appear in Arabic, history and values books too |
 | — | Default AVOID list, upload permission, recall procedure, nine library columns, one file-name pattern | Second review: closing gaps between sections |
-| Separate inserts: "5-Stage Prompt Sequence" and "Split / Summarize / Prompt cheat sheet" | Merged into Sections 23–25 and Appendix A. The separate inserts are **withdrawn**. | Both still taught Edition 1 rules: one source per lesson, a 7-part pack, Check-3, formal Arabic, the old Studio order, "no fixed daily number", Cinematic as "Ultra-only", 6 library columns |
+| Separate inserts: "5-Stage Prompt Sequence" and "Split / Summarize / Prompt cheat sheet" | Merged into Section 24 and Appendix A. The separate inserts are **withdrawn**. | Both still taught Edition 1 rules: one source per lesson, a 7-part pack, Check-3, formal Arabic, the old Studio order, "no fixed daily number", Cinematic as "Ultra-only", 6 library columns |
 | Research guide (Edition 1, Section 5) | Section 23, with the Research Brief and Contradiction Check | Kept, and separated from lesson notebooks |
 | Lecture map for the 19-slide Phase 1 deck | Replaced by the pilot-day deck and its slide-to-section map (`pilot-day-session-pack.md`) | The old deck teaches Edition 1 rules; retire or update it |
 | — | Section 26: the Prompt Builder (ChatGPT, Claude, Gemini) and `prompt-builder.md` | Prompts are generated with the subject rules built in, so teachers make fewer errors |
-| "Quiz with evidence" prompt | P9 (Section 9.2) | Gives a printable quiz with an answer key, since the help pages confirm no export for Studio quizzes |
+| "Quiz with evidence" prompt | P9 (Section 9.2) | Gives a printable quiz with an answer key, since the help pages do not confirm an export for Studio quizzes |
+
+**Edition 2.1 — 26 November 2026** (edit list: `docs/EDITION-2-REVIEW.md`):
+- Reading path corrected: Parts A–D, then Sections 15–18 and 20; print Appendix A.
+- P5 misconceptions is now part of Step 4 (with P4) and has its own select-ritual rows (Section 6, Quick Card).
+- Subject-notebook setup added (Section 4.3): create the notebook, add sources, Configure Chat → Learning Guide.
+- Quick Card: Audio/Video prompts cover all nine lines; Study Guide, Flashcards and Quiz drop Start with and Notes examples.
+- An output with no file is signed on the library item's title (Section 15).
+- Contradiction fixes: Spec in Step 1; weekly-loop media counts; retyped Lesson source named `…-Lesson`; Critique row and the sample-essay note; tone on the LANGUAGE line; distribution channel; matrix row D (Quran never AI-recited; Bible per church guidance); Law 7 scope; Stage 4 video sources; playbook scope; 13.3 register scope; Brief cap note.
+- §9 now allows Arabic or English prompts; §21 item 9 tests the Arabic prompt wordings.
 
 ---
 
@@ -918,7 +936,7 @@ Don't upload this guide and ask the notebook to "implement everything" (Section 
 | **1 — Test understanding** | Check only this guide, then ask the Stage 1 prompt below | Cited answers that match the guide |
 | **2 — Gaps** | Ask: *"What does this guide NOT cover about training teachers in our schools? List gaps only; do not invent them."* Verify each gap against the guide. | A verified gap list, saved as a dated note |
 | **3 — One pack** | In a **new Subject notebook** (never the Master): one real lesson, the full Section 8 workflow, one output at a time. Never ask for the whole pack in one prompt. | One pack that passed the Teacher Check |
-| **4 — Video, in Studio** | Not in Chat. **Studio → Video Overview → Explainer**, with the lesson set checked, the Steering Card pasted and **Review producer notes** on. The day before, never live. | A checked video, watched in full |
+| **4 — Video, in Studio** | Not in Chat. **Studio → Video Overview → Explainer**, with the Section 6 video sources checked, the Steering Card pasted and **Review producer notes** on. The day before, never live. | A checked video, watched in full |
 | **5 — Teach-back** | Ask the Stage 5 prompt below. The technician then builds live while observed. | A live build, one planted error corrected, one pack filed (Section 19) |
 
 **Stage 1 prompt**
@@ -1003,15 +1021,17 @@ Replaces the Edition 1 "Split / Summarize / Prompt cheat sheet".
 | Output | Check |
 |---|---|
 | Chat prep | Lesson (+ Bridge) |
+| P5 misconceptions | Lesson + Notes (+ Bridge if used) |
+| P8 exam alignment | Lesson + Spec |
 | Study Guide, Mind Map, Flashcards | Lesson + Checked Summary |
 | Quiz | Lesson + Checked Summary + Spec |
 | Audio, Video | Lesson + Checked Summary + Notes (+ Bridge) |
 
 **Workflow:**
-1. Prepare + extraction test
+1. Prepare + extraction test; Spec added (Section 4.3, step 4)
 2. Definitions (P2)
 3. Layered summary (P3)
-4. Worked solutions (P4)
+4. Worked solutions (P4) + misconceptions (P5)
 5. Freeze + **Convert** to source
 6. Studio: Study Guide → Mind Map (if used) → Flashcards → Quiz → Audio or Video
 7. Producer-notes check
@@ -1021,7 +1041,7 @@ Replaces the Edition 1 "Split / Summarize / Prompt cheat sheet".
 
 **Every Chat prompt starts with:** *From the checked sources only, for [Grade, Subject], in [language]: [task]. Cite everything. If the source doesn't give it, write "Not in the source".*
 
-**Every Studio prompt covers:** Audience · One goal · Scope (pages, what to skip) · Start with · Order · Examples (facts from the book, examples from Notes) · Language · Pace · End with.
+**Every Audio/Video prompt covers all nine lines:** Audience · One goal · Scope (pages, what to skip) · Start with · Order · Examples (facts from the book, examples from Notes) · Language · Pace · End with. **Study Guide, Flashcards and Quiz:** no Start with, and book examples only.
 
 **Teacher Check:**
 - 3 random citations read word for word

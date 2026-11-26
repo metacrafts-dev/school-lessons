@@ -41,12 +41,13 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 - ☐ Date (a school day, never Friday or Saturday), a room with a projector and sound, 08:30–14:00.
 - ☐ **Cover for both pilot teachers' classes all day**, and an opening slot when staff are free.
 - ☐ **Classroom equipment for next week:** does each pilot classroom have a projector or screen, a speaker and internet? If not: download the media (if possible) and play it from a phone and a small speaker, and print the quiz.
+- ☐ **Photocopies:** one Study Guide per student for each pilot class.
 - ☐ The 2 pilot teachers: subject, grade and term. Record staff codes, not student details.
 - ☐ Who attends the opening (whole staff or one department).
 - ☐ **Written permission** to upload ministry textbooks and exam specifications and to share outputs with students (guide, Section 16).
 - ☐ Which staff platform the school uses (Microsoft 365 or Google Workspace) and who administers it. This is only needed for a later phase.
 
-**Get the lessons:** send message 9.1 to both teachers and ask for next week's lesson (grade, subject, term, lesson title, pages).
+**Get the lessons:** send message 9.1 to both teachers and ask for **the first lesson they teach next week** (grade, subject, term, lesson title, pages, **and the day they teach it**).
 
 **Build the demo pack in your own account**, from teacher 1's lesson. If that lesson hasn't arrived, use the same grade's next lesson from the book library.
 - ☐ Lesson PDF trimmed; extraction test passed (guide, Section 4.3).
@@ -55,12 +56,21 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 - ☐ Study Guide, Flashcards and Quiz generated.
 - ☐ **The Brief** audio in simple Egyptian Arabic, plus a **Short** (or a short Explainer). Generate on **D-1** and Teacher Check **in full**.
 - ☐ **Offline backup:** download the audio and video if your account allows. If it doesn't, record the playback with a screen recorder. Test it on the speaker.
+- ☐ A 2-minute screen recording of the demo (citation click, two card flips, Hint and Explain), for the offline fallback.
 
-**Verify in your account on D-1** (guide, Section 21):
+**Prepare both lesson sets on D-1** (teacher 2's, and teacher 1's real lesson if the demo used another):
+- ☐ Lesson PDF trimmed; **extraction test passed in your own account.** Garbled → retype the key exercises, formulas and rules into a Doc that day and bring it.
+- ☐ The Spec for each teacher's grade, subject and term (guide, Section 4.3, step 4); a Bridge PDF if the lesson needs earlier material (mathematics: guide, Section 13.1).
+- ☐ **A ready Steering Card for The Brief**, one per lesson (guide, Section 9.3). On the day the teacher changes the hook and the examples.
+- ☐ All of it on the USB stick, and copied to each teacher's laptop at setup.
+
+**Verify on D-1 in your account, and at 08:45 in each teacher's account** (guide, Section 21):
 - ☐ Is Short offered in Arabic?
 - ☐ Does the audio hold Egyptian Arabic?
 - ☐ Can you download media on the web?
 - ☐ The current web address.
+- ☐ **Settings → Output Language** is Arabic (the default is the account's language).
+- ☐ The demo Brief was built with the **Arabic prompts** (Arabic guide, Section 9): the wording the teachers will paste.
 
 **Teachers' devices.** Each pilot teacher needs a laptop and a Google account they can sign in to: a known password, plus their phone for the sign-in code. Ask them to **test their sign-in on D-1** (message 9.1).
 - Phones won't do: there are no Mind Maps, Reports or notes on mobile.
@@ -71,6 +81,11 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 - ☐ Teacher Notes template × 2
 - ☐ The demo Study Guide × 5
 - ☐ The decision sheet (Section 7) × 2
+- ☐ P2–P5 and the Steering Card (Arabic guide, Sections 9.2–9.3) × 2
+- ☐ The demo Quiz on paper **with one answer changed by hand** (the find-the-error exercise) × 1
+- ☐ The decision sheet **in Arabic** (Section 7) × 2
+- ☐ The guide pages for each teacher's subject (Part E) and Section 14 × 1 each
+- ☐ The Arabic guide file for each teacher, on the USB stick
 
 **Kit**
 - ☐ Laptop and charger
@@ -78,7 +93,7 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 - ☐ A small speaker
 - ☐ **Mobile hotspot with data** (school Wi-Fi is often unreliable)
 - ☐ Extension cord
-- ☐ The deck on the laptop and on a USB stick
+- ☐ The deck, both lesson sets and the print files on the laptop and on a USB stick
 - ☐ The offline demo files
 
 ---
@@ -87,15 +102,17 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 
 | Time | With | What | Slides |
 |---|---|---|---|
-| 08:30–09:00 | You | Setup: projector, sound, hotspot, demo files open. **08:45: both pilot teachers sign in** to their accounts (fix password or code problems now). | — |
+| 08:30–09:00 | You | Setup: projector, sound, hotspot, demo files open. **08:45: both pilot teachers sign in** to their accounts (fix password or code problems now). **By 09:00, a teacher who still cannot sign in pairs with the other on one laptop; they build one pack together.** Note it on the capture sheet. | — |
 | 09:00–09:20 | Principal + teachers | **Opening pitch** (Section 4) and the 60-second demo moment | 1–7 |
 | 09:20–10:10 | Teachers | **Session 1 — How it works.** The eight laws, the lesson set, Teacher Notes, the select ritual, the workflow. Live: definitions in Chat and Flashcards in Studio on teacher 1's lesson. | 8–13 |
 | 10:10–10:25 | | Break | — |
-| 10:25–11:40 | Pilot teachers (others pair or observe) | **Session 2 — Hands-on build** (Section 6). Start **The Brief** audio before the break, so it generates during the break. | 14 |
+| 10:25–11:40 | Pilot teachers (others **observe**; nobody else drives a pilot teacher's laptop) | **Session 2 — Hands-on build** (Section 6). **11:35 is the fixed point:** whatever is unfinished, start **The Brief** by then, so it generates during the break. | 14 |
 | 11:40–12:20 | | **Dhuhr prayer and lunch** (check the day's local prayer time and move the block if needed) | — |
 | 12:20–13:20 | Pilot teachers | **Session 3 — Check and steer.** Teacher Check of the Study Guide, Flashcards and Quiz (10 min), then a full Teacher Check of the audio; fix and sign. Steer the video with **Review producer notes**; it finishes in the evening. Subject playbook and language rules for their subject. | 15–18 |
 | 13:20–13:50 | Pilot teachers + principal | **Close.** Next week's classroom loop, how we measure and decide, the commitment. School OS only if asked (Section 10). | 19–21 |
 | 13:50–14:00 | You | Fill in the **capture sheet** (Section 8) before leaving | — |
+
+**If the day starts late or is cut, cut in this order:** slides 15–16 (hand out the guide pages for their subject instead) → slide 18 (say only what to do tonight) → the video steering (The Brief becomes the hook) → Session 1's live Flashcards. **Never cut:** The Brief started by 11:35, the Teacher Check, the export and signature, the commitment.
 
 ---
 
@@ -109,16 +126,16 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 >
 > قبل ما أتكلم أكتر، اسمعوا دقيقة واحدة من درس من كتابكم أنتم… *[شغّل 60 ثانية من The Brief]*
 >
-> اللي سمعتوه اتعمل من صفحات الكتاب بس، والمعلم راجع كل معلومة فيه على الكتاب قبل ما يوصل للطالب. وفي الأسئلة والأجوبة، كل إجابة عليها استشهاد بتضغط عليه يوديك للسطر في الكتاب. الأداة اسمها Gemini Notebook من Google، والنسخة الأساسية مجانية. هي مش بتألف منهج ولا بتشتغل لوحدها: المعلم هو المؤلف، والمعلم هو المراجع.
+> اللي سمعتوه اتعمل من كتابكم وملاحظات المعلم بس، وكل معلومة فيه اتراجعت على الكتاب قبل ما يوصل للطالب. وفي الأسئلة والأجوبة، كل إجابة عليها استشهاد بتضغط عليه يوديك للسطر في الكتاب. الأداة اسمها Gemini Notebook من Google، والنسخة الأساسية مجانية. هي مش بتألف منهج ولا بتشتغل لوحدها: المعلم هو المؤلف، والمعلم هو المراجع.
 >
-> من درس واحد بنطلّع حزمة: ورقة مذاكرة واحدة، وبطاقات، واختبار، وصوت أو فيديو قصير، بالعامية المصرية البسيطة وبمصطلحات الكتاب زي ما هي.
+> من درس واحد بنطلّع حزمة: دليل مذاكرة، وبطاقات، واختبار، وصوت أو فيديو قصير، بالعامية المصرية البسيطة وبمصطلحات الكتاب زي ما هي.
 >
-> اللي بنطلبه بسيط: معلمين اتنين، ودرس واحد من دروس الأسبوع الجاي، واليوم الدراسي ده نبني فيه الحزمة سوا. الأسبوع الجاي الطلبة يستخدموها، وفي آخره نقيس: لو استخدموها نكمّل في القسم، ولو لأ نوقف ونعرف السبب، من غير أي التزام.
+> اللي بنطلبه بسيط: معلمين اتنين، ودرس واحد من دروس الأسبوع الجاي، واليوم الدراسي ده نبني فيه الحزمة سوا. الأسبوع الجاي الطلبة يستخدموها، وفي آخره نقيس: لو استخدموها نكمل مع مدرّسي المادة، ولو لأ نوقف ونعرف السبب، من غير أي التزام.
 
 **English gist:**
 - The problem: students go home with only the textbook page; many read poorly, see no link to their lives, and forget.
 - Listen to 60 seconds made from *your* book.
-- It's made only from the book, and the teacher checked every point against it. In Chat, every answer has a citation that opens the exact line in the book. The teacher is the author and the reviewer.
+- It's made only from the book and the teacher's own notes, and every point was checked against the book. In Chat, every answer has a citation that opens the exact line in the book. The teacher is the author and the reviewer.
 - One lesson becomes a study sheet, flashcards, a quiz and one audio or video, in simple Egyptian Arabic with the book's exact terms.
 - The ask: two teachers, one lesson for next week, today's school day, one week of use, then decide together. No commitment.
 
@@ -137,32 +154,38 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 3. **Flashcards:** flip two cards; show "Got it! / Missed it!".
 4. **Quiz:** answer one question wrongly on purpose, then show **Hint** and **Explain**.
 5. **Hold up the printed Study Guide:** "This goes home on paper, too."
-6. Say it plainly: **"The teacher made this and checked it. Nothing reaches students unchecked."**
+6. Say it plainly: **"I made this yesterday from your book, the way your two colleagues will today, and I checked every point against it. Nothing reaches students unchecked."**
 
 **If the internet fails:** play the offline audio and video files, pass the printed Study Guide around, and continue with the slides. Session 2 can run on your hotspot.
 
+**If a teacher's account refuses a generation or lacks a feature:** don't move the build to your account. Continue with text outputs first, media last. No Brief → Study Guide and Quiz only, and the video anyway. No Short in Arabic → a short Explainer. No video → The Brief opens the lesson. One regenerate per output; a second failure → drop it. Write the app's exact message on the capture sheet.
+
 ---
 
-## 6. Hands-on runbook — Session 2 (about 75 minutes per pilot teacher)
+## 6. Hands-on runbook — Session 2 (75 minutes; 70 minutes of steps; **both teachers build at the same time**, each on their own laptop. Steps 1–4 in lockstep, then each at their own pace)
 
 | # | Step | Minutes | Watch for |
 |---|---|---|---|
-| 1 | Sign in; **Create new notebook** named `Subject-Grade-Term` (e.g. `Math-P5-T1`) | 3 | Sign-in codes go to the teacher's phone |
+| 1 | Sign in; **Create new notebook** named `Subject-Grade-Term` (e.g. `Math-P5-T1`); **Configure Chat → Learning Guide** | 3 | Sign-in codes go to the teacher's phone |
 | 2 | **Add sources:** the trimmed Lesson PDF (prepared by you) and the Spec | 3 | Name the sources by the guide's pattern (Section 4.2) |
 | 3 | **Extraction test:** "Quote, word for word, the first exercise on page [p]" | 3 | Garbled text → retype key items into a Doc |
 | 4 | **Teacher Notes:** fill the template on paper first, then type it as a note → **Convert** to source | 15 | No student names; real local prices and places |
 | 5 | **P2** definitions table; check it against the book | 10 | Rows the book doesn't define |
 | 6 | **P3** layered summary; check it | 10 | Examples that aren't in the book |
-| 7 | **P4** one worked solution (math and sciences); recompute it | 10 | Arithmetic and notation (س، ص) |
-| 8 | Save as `…-Checked-Summary` → **Convert** to source | 3 | — |
+| 7 | **P4** one worked solution (math and sciences) **or P5 misconceptions (other subjects)**; check it against the book | 10 | P5 needs **Notes** checked too; recompute every number |
+| 8 | Save the checked results **and your misconception list** as `…-Checked-Summary` → **Convert** to source | 3 | The Quiz's wrong options come from this list |
 | 9 | Select ritual → **Study Guide, Flashcards, Quiz** | 10 | Difficulty set in the customize panel |
-| 10 | Select ritual → **The Brief** audio with a Steering Card → Generate, **then go to break** | 3 | Egyptian Arabic and the book's terms in the prompt |
+| 10 | Select ritual → **The Brief** audio with **your ready Steering Card** (the teacher adjusts the hook and examples) → Generate, **then go to break** | 3 | Egyptian Arabic and the book's terms in the prompt |
 
-**Session 3:**
-1. Teacher Check of the Study Guide, Flashcards and Quiz: 3 citations, every number and answer. Then listen to the audio **in full** together and run the Teacher Check.
-2. Regenerate if needed, then sign the file name.
-3. Fill a Steering Card for a **Short** (or a short Explainer). Turn on **Review producer notes**, read the plan and refine it, then **Proceed**.
-4. The teacher watches the finished video **in full** that evening, before using it.
+**Session 3 (60 minutes):**
+1. 12:20–12:23 — Slide 17, then **find the error**: the planted-error copy of the demo Quiz, two minutes, then reveal.
+2. 12:23–12:35 — Each teacher checks their Study Guide, Flashcards and Quiz against the book: 3 citations, every number and answer. You circulate.
+3. 12:35–12:45 — Play each teacher's Brief **in full**; run the Teacher Check. Needs a regenerate? Start it now.
+4. 12:45–13:05 — Each teacher **exports**: the Study Guide and the Quiz into one Word file, the Flashcards as CSV, all onto your USB stick; and writes the Short's Steering Card on paper. Meanwhile you do each teacher's **spot check**: 3 citations, the first 60 seconds of the audio, one quiz item.
+5. 13:05–13:15 — Each teacher pastes the Steering Card, turns on **Review producer notes**, reads the plan with you, **Proceed**. It finishes in the evening.
+6. 13:15–13:20 — Slide 18 only: the limits and what to do tonight (message 9.4). Slides 15–16 are the printed guide pages for their subject.
+
+**Export, sign, file (the pilot's archive):** name the files `Subject-Grade-Term-Lesson-StudyGuide-v1-YYYY-MM-DD-checked-<teacher code>-sv-<your code>` (guide, Section 18). The Word file is also the class set: one Study Guide per student, and the paper quiz if the classroom has no screen.
 
 ---
 
@@ -173,7 +196,14 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 2. Teach as usual with the **Study Guide** on paper.
 3. Run the **Quiz** as a team game; use **Explain** on the screen for wrong answers.
 4. Audio for home only if download works. Otherwise play it in class.
-5. Optional: a **Parent audio** (guide, Section 12.3).
+5. **End of the week:** show the Flashcards the class missed (guide, Section 12.1).
+6. Optional: a **Parent audio** (guide, Section 12.3).
+
+**What each teacher does alone — and what to do if it fails:**
+- **Tonight:** watch the video **in full**. Passed → send message 9.4. Failed or not finished → **don't show it**; open the lesson with The Brief instead, and send me what was wrong.
+- **Before the lesson:** print the Study Guide, one per student.
+- **If you find an error in class:** stop using that part, give the class the correct point from the book, and message me the same day.
+- **Files for home:** only if the account's download button works; otherwise play the audio in class.
 
 **Decision sheet — one per teacher (no student names anywhere):**
 
@@ -186,12 +216,31 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 | Teacher minutes for the pack (including checking) | Teacher's estimate | |
 | Errors found in the Teacher Check | Count + one example | |
 | Would the teacher make another pack? | Yes / No | |
+| Why (one line) | The teacher's reason for the answer below | |
 
 **Decision rule:**
 - **Go** if both teachers would make another pack **and** the learning signals are good: quiz-game correctness and exit-ticket answers at or above the class's usual level (and, where files went home, at least a third of students used them at home). Playing a video in class doesn't count as engagement by itself. Expand to their department next term, one Subject notebook per grade and term.
 - **Stop** otherwise. Write down why in one line. No mandate.
 
-**Follow-up:** message 9.3 on day 2 (a short check-in) and on day 5 (the numbers), then the 20-minute call.
+**ورقة القرار — لكل معلم واحدة (بلا أسماء طلاب في أي ورقة)**
+
+| المقياس | كيف | النتيجة |
+|---|---|---|
+| عدد الحاضرين | العدّ | |
+| من سمع أو شاهد في البيت (إن أُرسلت الملفات) | رفع الأيدي | |
+| نسبة الإجابات الصحيحة في لعبة الاختبار | قارنها باختبار معتاد إن وُجد | |
+| بطاقة الخروج: «شيء واحد تعلمته» | عدد الإجابات الصحيحة المقروءة (لا تُحتفظ بالأوراق) | |
+| دقائق المعلم للحزمة (بما فيها المراجعة) | تقدير المعلم | |
+| الأخطاء المكتشفة في المراجعة | العدد + مثال واحد | |
+| هل تصنع حزمة أخرى؟ | نعم / لا | |
+| السبب (سطر واحد) | | |
+
+**قاعدة القرار:**
+- **نكمل** إذا كان المعلمان يريدان صنع حزمة أخرى **و** كانت مؤشرات التعلم جيدة: نتيجة لعبة الاختبار وبطاقة الخروج عند مستوى الفصل المعتاد أو أعلى (وإذا أُرسلت الملفات إلى البيت: استخدمها ثلث الطلاب على الأقل في البيت). عرض الفيديو في الفصل وحده لا يُحسب تفاعلًا. نوسّع العمل على مدرّسي المادة في الفصل الدراسي التالي، بدفتر مادة واحد لكل صف وفصل دراسي.
+- **نتوقف** فيما عدا ذلك، ونكتب السبب في سطر واحد. بلا أي التزام.
+
+**Follow-up (counted from the day each teacher teaches the lesson):** message 9.3 the evening after the lesson (a short check-in) and two days later (the numbers); then the 20-minute call.
+**The call (20 minutes; you, both teachers, the principal if possible):** 0–10 each teacher reads their sheet · 10–15 errors found and minutes spent · 15–20 Go or Stop by the rule, and who tells the principal, and when.
 
 ---
 
@@ -201,8 +250,12 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 2. Lessons for next week (title, pages): __________ / __________
 3. Accounts used (personal / school-managed): __________
 4. The school's staff platform and its admin (name, how to reach them): __________
-5. Principal's decision, and the date and time of the check call: __________
+5. Principal: agrees to the pilot week and joins the call (yes / no); check call date and time
 6. The platform-name question (Section 12): screenshot, login link or exact name: __________
+7. How the day ran: actual start ___ · The Brief started ___ · Session 3 ended ___ · what was cut: __________
+8. Per teacher: account (personal / school) · Short in Arabic offered (y/n) · download works (y/n) · limit or error message, exact words: __________
+9. Paired build (a teacher could not sign in): __________
+10. After the week: video passed each teacher's full check (y/n) · Decision: Go / Stop · why (one line): __________
 
 ---
 
@@ -210,21 +263,27 @@ Method: `teacher-guide-gemini-notebook.en.md` / `.ar.md` (Edition 2). Section nu
 
 ### 9.1 Before the day — to the pilot teachers
 
-> السلام عليكم، أنا [الاسم] وهكون معاكم يوم [اليوم]. عشان نستغل اليوم كويس، ممكن تبعتلي: الصف، والمادة، والترم، وعنوان الدرس اللي هتشرحه الأسبوع الجاي وأرقام صفحاته؟ ويا ريت تيجي ومعاك لابتوب وحساب Google تقدر تدخل عليه، وموبايلك عشان رسالة التأكيد. ومن فضلك جرّب تدخل على حسابك يوم [اليوم السابق] عشان نتأكد إن الباسورد شغال. مش هنحتاج أي بيانات عن الطلبة خالص.
+> السلام عليكم، أنا [الاسم] وهكون معاكم يوم [اليوم]. عشان نستغل اليوم كويس، ممكن تبعتلي: الصف، والمادة، والترم، وعنوان أول درس هتشرحه الأسبوع الجاي وأرقام صفحاته ويوم الحصة؟ ويا ريت تيجي ومعاك لابتوب وحساب Google تقدر تدخل عليه، وموبايلك عشان رسالة التأكيد. ومن فضلك جرّب تدخل على حسابك يوم [اليوم السابق] عشان نتأكد إن الباسورد شغال. مش هنحتاج أي بيانات عن الطلبة خالص.
 
-> Hello, I'm [name] and I'll be with you on [day]. To make the most of the day, could you send me the grade, subject, term, lesson title and page numbers of the lesson you'll teach next week? Please bring a laptop and a Google account you can sign in to, and your phone for the sign-in code. Please test your sign-in on [the day before], so we know the password works. We won't need any student information at all.
+> Hello, I'm [name] and I'll be with you on [day]. To make the most of the day, could you send me the grade, subject, term, lesson title and page numbers of the first lesson you'll teach next week, and the day you teach it? Please bring a laptop and a Google account you can sign in to, and your phone for the sign-in code. Please test your sign-in on [the day before], so we know the password works. We won't need any student information at all.
 
 ### 9.2 After the day — replaces the old "after the visit" message
 
-> السلام عليكم، شكرًا على يوم النهارده. كل واحد فيكم خرج بحزمة مُراجَعة لدرس الأسبوع الجاي: ورقة مذاكرة، وبطاقات، واختبار، وصوت. الفيديو هيخلص النهارده بالليل، ولازم تشوفه كامل قبل ما تعرضه. الأسبوع ده: ابدأ الحصة بالمقطع القصير، واعمل الاختبار لعبة فرق، وسجّل الأرقام اللي في ورقة القرار. يوم [اليوم] هكلمكم ٢٠ دقيقة ونقرر سوا نكمّل ولا نوقف. وأي سؤال ابعتهولي هنا.
+> السلام عليكم، شكرًا على يوم النهارده. كل واحد فيكم خرج بحزمة مُراجَعة لدرس الأسبوع الجاي: دليل مذاكرة، وبطاقات، واختبار، وصوت. الفيديو هيخلص النهارده بالليل، ولازم تشوفه كامل قبل ما تعرضه؛ لما تخلصه وتكون راجعته ابعتلي رسالة 9.4. ولو لقيت فيه أي غلط، ماتعرضهوش: ابدأ الحصة بصوت The Brief، وابعثلي إيه اللي غلط. لما تشرح الدرس: ابدأ الحصة بالمقطع القصير، واعمل الاختبار لعبة فرق، وسجّل الأرقام اللي في ورقة القرار. يوم [اليوم] هكلمكم ٢٠ دقيقة ونقرر سوا نكمّل ولا نوقف. وأي سؤال ابعتهولي هنا.
 
-> Thank you for today. Each of you left with a checked pack for next week's lesson: a study sheet, flashcards, a quiz and an audio. The video finishes tonight; watch it in full before you show it. This week: open the lesson with the short clip, run the quiz as a team game, and record the numbers on the decision sheet. On [day] I'll call you for 20 minutes and we'll decide together whether to continue or stop. Send me any questions here.
+> Thank you for today. Each of you left with a checked pack for next week's lesson: a study guide, flashcards, a quiz and an audio. The video finishes tonight; watch it in full before you show it, and send me message 9.4 when you have. If you find an error, do not show it: open with The Brief and send me what was wrong. When you teach the lesson: open with the short clip, run the quiz as a team game, and record the numbers on the decision sheet. On [day] I'll call you for 20 minutes and we'll decide together whether to continue or stop. Send me any questions here.
 
-### 9.3 Day 2 and day 5 check-ins
+### 9.3 Check-ins
 
-> السلام عليكم، إزاي الحزمة مع الطلبة؟ يوم ٥: ابعتلي أرقام ورقة القرار، وهل لقيت أي غلط في المراجعة؟ وتحب تعمل درس كمان؟ نتكلم [الموعد].
+> السلام عليكم، إزاي الحزمة مع الطلبة؟ بعد الدرس بيومين: ابعتلي أرقام ورقة القرار، وهل لقيت أي غلط في المراجعة؟ وتحب تعمل درس كمان؟ نتكلم [الموعد].
 
-> How is the pack going with your students? On day 5, send me the decision-sheet numbers. Did you find any errors when checking? Would you like to make another lesson? Let's talk on [time].
+> How is the pack going with your students? Two days after the lesson, send me the decision-sheet numbers. Did you find any errors when checking? Would you like to make another lesson? Let's talk on [time].
+
+### 9.4 That evening — the teacher's video sign-off (teacher to you)
+
+> راجعت فيديو درس [اسم الدرس] كاملًا: [تمام، هستخدمه / فيه غلط، مش هستخدمه]. الملاحظات: […]. كودي: [الكود].
+
+> I watched the video for lesson [title] in full: [fine, I will use it / an error, I will not use it]. Notes: […]. My code: [code].
 
 ---
 
